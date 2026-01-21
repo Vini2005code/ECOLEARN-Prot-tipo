@@ -15,7 +15,7 @@ interface DashboardContentProps {
 
 // Lista de competidores com nomes reais para simular o ranking
 const initialRanking = [
-  { name: "Ana Silva", score: 450.00 },
+  { name: "Sofia Pirfo Lima", score: 450.00 },
   { name: "Carlos Oliveira", score: 380.50 },
   { name: "Mariana Costa", score: 310.00 },
   { name: "João Pedro Santos", score: 220.00 },
